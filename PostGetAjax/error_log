@@ -1,0 +1,20 @@
+[30-Nov-2018 13:42:31 Europe/Budapest] PHP Notice:  Undefined index: telephely in /home/cxgqji/elsz.bmm.hu/PostGetAjax/post_pbiz.php on line 11
+[30-Nov-2018 13:42:31 Europe/Budapest] PHP Notice:  Undefined index: tipus in /home/cxgqji/elsz.bmm.hu/PostGetAjax/post_pbiz.php on line 11
+[30-Nov-2018 13:42:34 Europe/Budapest] PHP Notice:  Undefined index: receprios in /home/cxgqji/elsz.bmm.hu/PostGetAjax/post_pbiz.php on line 11
+[30-Nov-2018 13:42:34 Europe/Budapest] PHP Notice:  Undefined index: telephely in /home/cxgqji/elsz.bmm.hu/PostGetAjax/post_pbiz.php on line 11
+[30-Nov-2018 13:42:34 Europe/Budapest] PHP Notice:  Undefined index: tipus in /home/cxgqji/elsz.bmm.hu/PostGetAjax/post_pbiz.php on line 11
+[30-Nov-2018 13:56:12 Europe/Budapest] PHP Notice:  Undefined index: receprios in /home/cxgqji/elsz.bmm.hu/PostGetAjax/post_pbiz.php on line 11
+[30-Nov-2018 13:56:12 Europe/Budapest] PHP Notice:  Undefined index: telephely in /home/cxgqji/elsz.bmm.hu/PostGetAjax/post_pbiz.php on line 11
+[30-Nov-2018 13:56:12 Europe/Budapest] PHP Notice:  Undefined index: tipus in /home/cxgqji/elsz.bmm.hu/PostGetAjax/post_pbiz.php on line 11
+[30-Nov-2018 14:20:35 Europe/Budapest] PHP Notice:  Undefined index: receprios in /home/cxgqji/elsz.bmm.hu/PostGetAjax/post_pbiz.php on line 11
+[30-Nov-2018 14:20:35 Europe/Budapest] PHP Notice:  Undefined index: telephely in /home/cxgqji/elsz.bmm.hu/PostGetAjax/post_pbiz.php on line 11
+[30-Nov-2018 14:20:35 Europe/Budapest] PHP Notice:  Undefined index: tipus in /home/cxgqji/elsz.bmm.hu/PostGetAjax/post_pbiz.php on line 11
+[30-Nov-2018 18:09:09 Europe/Budapest] PHP Warning:  mysqli::mysqli(): (HY000/1130): Host 'localhost' is not allowed to connect to this MariaDB server in /home/cxgqji/elsz.bmm.hu/includes/DbConnect.inc.php on line 23
+[30-Nov-2018 18:09:09 Europe/Budapest] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/cxgqji/elsz.bmm.hu/includes/DbConnect.inc.php on line 24
+[19-Dec-2018 20:05:59 Europe/Budapest] PHP Notice:  Undefined index: date in /home/cxgqji/elsz.bmm.hu/PostGetAjax/post_utalas.php on line 16
+[25-Jan-2019 17:35:00 Europe/Budapest] PHP Parse error:  syntax error, unexpected '$no' (T_VARIABLE) in /home/cxgqji/elsz.bmm.hu/PostGetAjax/post_munkaido.php on line 39
+[25-Jan-2019 17:35:09 Europe/Budapest] PHP Parse error:  syntax error, unexpected '$no' (T_VARIABLE) in /home/cxgqji/elsz.bmm.hu/PostGetAjax/post_munkaido.php on line 39
+[25-Jan-2019 17:35:10 Europe/Budapest] PHP Parse error:  syntax error, unexpected '$no' (T_VARIABLE) in /home/cxgqji/elsz.bmm.hu/PostGetAjax/post_munkaido.php on line 39
+[25-Jan-2019 17:35:38 Europe/Budapest] PHP Parse error:  syntax error, unexpected '$no' (T_VARIABLE) in /home/cxgqji/elsz.bmm.hu/PostGetAjax/post_munkaido.php on line 39
+[25-Jan-2019 17:40:16 Europe/Budapest] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/cxgqji/elsz.bmm.hu/PostGetAjax/post_munkaido.php on line 35
+[25-Jan-2019 17:40:16 Europe/Budapest] PHP Notice:  Undefined index:  in /home/cxgqji/elsz.bmm.hu/PostGetAjax/post_munkaido.php on line 36

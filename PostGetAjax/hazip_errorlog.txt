@@ -1,0 +1,506 @@
+New record created successfully :BMM
+ //tesztNew record created successfully :BMM
+New record created successfully :Óbuda
+New record created successfully :Óbuda
+New record created successfully :P70
+New record created successfully :P70
+New record created successfully :BMM
+New record created successfully :BMM
+New record created successfully :Fizio
+New record created successfully :Fizio
+New record created successfully :P72
+New record created successfully :P72
+New record created successfully :BMM
+New record created successfully :BMM
+New record created successfully :BMM
+New record created successfully :BMM
+New record created successfully :BMM
+New record created successfully :BMM
+New record created successfully :BMM
+New record created successfully :BMM
+New record created successfully :BMM
+New record created successfully :BMM
+New record created successfully :BMM
+New record created successfully :Lábcentrum
+New record created successfully :Óbuda
+New record created successfully :Óbuda
+New record created successfully :BMM
+New record created successfully :BMM
+New record created successfully :BMM
+New record created successfully :Fizio
+New record created successfully :Fizio
+New record created successfully :P70
+New record created successfully :P70
+New record created successfully :P70
+New record created successfully :P70
+New record created successfully :BMM
+New record created successfully :BMM
+New record created successfully :Fizio
+New record created successfully :Fizio
+New record created successfully :Óbuda
+New record created successfully :Óbuda
+Post  :Gazdag András - BMM - bevetel
+New record created successfully :BMM-2018.11.29-Gazdag András
+Post  :Szalay Lilla - P70 - bevetel
+New record created successfully :P70-2018.11.29-Szalay Lilla
+Post  :Szalay Lilla - P70 - kiadas
+New record created successfully :P70-2018.11.29-Szalay Lilla
+Post  :Martony Boglárka - Óbuda - bevetel
+New record created successfully :Óbuda-2018.11.29-Martony Boglárka
+Post  :Martony Boglárka - Óbuda - kiadas
+New record created successfully :Óbuda-2018.11.29-Martony Boglárka
+Post  :Popovics Linda - P72 - bevetel
+New record created successfully :P72-2018.11.29-Popovics Linda
+Post  :Popovics Linda - P72 - kiadas
+New record created successfully :P72-2018.11.29-Popovics Linda
+Post  :Gál Barna - P72 - bevetel_javbiz
+New record created successfully :P72-2018.11.29-Gál Barna
+Post  :Gál Barna - P72 - kiadasi_javbiz
+New record created successfully :P72-2018.11.29-Gál Barna
+Post  :Kincses Boglárka - Fizio - bevetel
+New record created successfully :Fizio-2018.11.29-Kincses Boglárka
+Post  :Kincses Boglárka - Fizio - kiadas
+New record created successfully :Fizio-2018.11.29-Kincses Boglárka
+Post  :Gál Barna - BMM - kiadas
+New record created successfully :BMM-2018.11.29-Gál Barna
+Post  :Gál Barna - BMM - bevetel_javbiz
+New record created successfully :BMM-2018.11.03-Gál Barna
+Post  :Gál Barna - BMM - bevetel_javbiz
+New record created successfully :BMM-2018.11.06-Gál Barna
+Post  :Gazdag András - BMM - bevetel
+New record created successfully :BMM-2018.11.30-Gazdag András
+Post  :Gazdag András - BMM - bevetel_javbiz
+New record created successfully :BMM-2018.11.29-Gazdag András
+Post  :Gazdag András - BMM - bevetel_javbiz
+New record created successfully :BMM-2018.11.29-Gazdag András
+Post  :Gazdag András - BMM - bevetel
+New record created successfully :BMM-2018.11.30-Gazdag András
+Post  : -  - 
+Post  : -  - 
+Post  : -  - 
+Post  : -  - 
+Post  :Gazdag András - BMM - bevetel_javbiz
+New record created successfully :BMM-2018.11.29-Gazdag András
+Post  : -  - 
+Post  : -  - 
+Post  :Gál Barna - BMM - kiadasi_javbiz
+New record created successfully :BMM-2018.10.05-Gál Barna
+Post  :Gál Barna - BMM - kiadasi_javbiz
+New record created successfully :BMM-2018.10.05-Gál Barna
+Post  :Hegedüs Alexa - Fizio - bevetel
+New record created successfully :Fizio-2018.11.30-Hegedüs Alexa
+Post  :Hegedüs Alexa - Fizio - kiadas
+New record created successfully :Fizio-2018.11.30-Hegedüs Alexa
+Post  :Bánfi Dóra - P70 - bevetel
+New record created successfully :P70-2018.11.30-Bánfi Dóra
+Post  :Bánfi Dóra - P70 - kiadas
+New record created successfully :P70-2018.11.30-Bánfi Dóra
+Post  :Kincses Boglárka - P72 - bevetel
+New record created successfully :P72-2018.11.30-Kincses Boglárka
+Post  :Kincses Boglárka - P72 - kiadas
+New record created successfully :P72-2018.11.30-Kincses Boglárka
+Post  :Süliova Evelin - BMM - kiadas
+New record created successfully :BMM-2018.11.30-Süliova Evelin
+Post  :Gazdag András - BMM - bevetel
+New record created successfully :BMM-2018.11.31-Gazdag András
+Post  :Lukács Eleonóra - P70 - bevetel\nNew record created successfully :P70-2018.12.03-Lukács Eleonóra
+Post  :Lukács Eleonóra - P70 - kiadas\nNew record created successfully :P70-2018.12.03-Lukács Eleonóra
+Post  :Kincses Boglárka - Fizio - bevetel\nNew record created successfully :Fizio-2018.12.03-Kincses Boglárka
+Post  :Kincses Boglárka - Fizio - kiadas\nNew record created successfully :Fizio-2018.12.03-Kincses Boglárka
+Post  :Szakmány Boglárka - BMM - bevetel\nNew record created successfully :BMM-2018.12.03-Szakmány Boglárka
+Post  :Szakmány Boglárka - BMM - kiadas\nNew record created successfully :BMM-2018.12.03-Szakmány Boglárka
+Post  :Popovics Linda - Óbuda - bevetel\nNew record created successfully :Óbuda-2018.12.03-Popovics Linda
+Post  :Popovics Linda - Óbuda - kiadas\nNew record created successfully :Óbuda-2018.12.03-Popovics Linda
+Post  :Hegedüs Alexa - Fizio - bevetel\nNew record created successfully :Fizio-2018.12.04-Hegedüs Alexa
+Post  :Hegedüs Alexa - Fizio - kiadas\nNew record created successfully :Fizio-2018.12.04-Hegedüs Alexa
+Post  :Martony Boglárka - Óbuda - bevetel\nNew record created successfully :Óbuda-2018.12.04-Martony Boglárka
+Post  :Martony Boglárka - Óbuda - kiadas\nNew record created successfully :Óbuda-2018.12.04-Martony Boglárka
+Post  :Bánfi Dóra - P70 - bevetel\nNew record created successfully :P70-2018.12.04-Bánfi Dóra
+Post  :Bánfi Dóra - P70 - kiadas\nNew record created successfully :P70-2018.12.04-Bánfi Dóra
+Post  :Süliova Evelin - BMM - bevetel\nNew record created successfully :BMM-2018.12.04-Süliova Evelin
+Post  :Süliova Evelin - BMM - kiadas\nNew record created successfully :BMM-2018.12.04-Süliova Evelin
+Post  :Popovics Linda - BMM - bevetel\nNew record created successfully :BMM-2018.12.05-Popovics Linda
+Post  :Popovics Linda - BMM - kiadas\nNew record created successfully :BMM-2018.12.05-Popovics Linda
+Post  :Lukács Eleonóra - P70 - bevetel\nNew record created successfully :P70-2018.12.05-Lukács Eleonóra
+Post  :Lukács Eleonóra - P70 - kiadas\nNew record created successfully :P70-2018.12.05-Lukács Eleonóra
+Post  :Martony Boglárka - Óbuda - bevetel\nNew record created successfully :Óbuda-2018.12.05-Martony Boglárka
+Post  :Martony Boglárka - Óbuda - kiadas\nNew record created successfully :Óbuda-2018.12.05-Martony Boglárka
+Post  :Kincses Boglárka - Fizio - bevetel\nNew record created successfully :Fizio-2018.12.05-Kincses Boglárka
+Post  :Kincses Boglárka - Fizio - kiadas\nNew record created successfully :Fizio-2018.12.05-Kincses Boglárka
+Post  :Moravcsik Miklós - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.15-Moravcsik Miklós
+Post  :Martony Boglárka - Óbuda - bevetel\nNew record created successfully :Óbuda-2018.12.06-Martony Boglárka
+Post  :Martony Boglárka - Óbuda - kiadas\nNew record created successfully :Óbuda-2018.12.06-Martony Boglárka
+Post  :Popovics Linda - P70 - bevetel\nNew record created successfully :P70-2018.12.06-Popovics Linda
+Post  :Popovics Linda - P70 - kiadas\nNew record created successfully :P70-2018.12.06-Popovics Linda
+Post  :Hegedüs Alexa - Fizio - bevetel\nNew record created successfully :Fizio-2018.12.06-Hegedüs Alexa
+Post  :Hegedüs Alexa - Fizio - kiadas\nNew record created successfully :Fizio-2018.12.06-Hegedüs Alexa
+Post  :Szakmány Boglárka - BMM - bevetel\nNew record created successfully :BMM-2018.12.06-Szakmány Boglárka
+Post  :Szakmány Boglárka - BMM - kiadas\nNew record created successfully :BMM-2018.12.06-Szakmány Boglárka
+Post  :Hegedüs Alexa - Fizio - bevetel\nNew record created successfully :Fizio-2018.12.07-Hegedüs Alexa
+Post  :Hegedüs Alexa - Fizio - kiadas\nNew record created successfully :Fizio-2018.12.07-Hegedüs Alexa
+Post  :Kincses Boglárka - BMM - bevetel\nNew record created successfully :BMM-2018.12.07-Kincses Boglárka
+Post  :Kincses Boglárka - BMM - kiadas\nNew record created successfully :BMM-2018.12.07-Kincses Boglárka
+Post  :Lukács Eleonóra - P70 - bevetel\nNew record created successfully :P70-2018.12.07-Lukács Eleonóra
+Post  :Lukács Eleonóra - P70 - kiadas\nNew record created successfully :P70-2018.12.07-Lukács Eleonóra
+Post  :Moravcsik Miklós - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.12.05-Moravcsik Miklós
+Post  :Moravcsik Miklós - BMM - kiadasi_javbiz\nNew record created successfully :BMM-2018.12.05-Moravcsik Miklós
+Post  :Kiss Melinda - BMM - bevetel\nNew record created successfully :BMM-2018.12.08-Kiss Melinda
+Post  :Kiss Melinda - BMM - kiadas\nNew record created successfully :BMM-2018.12.08-Kiss Melinda
+Post  :Dénes Boglárka - P70 - bevetel\nNew record created successfully :P70-2018.12.08-Dénes Boglárka
+Post  :Dénes Boglárka - P70 - kiadas\nNew record created successfully :P70-2018.12.08-Dénes Boglárka
+Post  :Moravcsik Miklós - P70 - kiadasi_javbiz\nNew record created successfully :P70-2018.12.06-Moravcsik Miklós
+Post  :Moravcsik Miklós - P70 - bevetel_javbiz\nNew record created successfully :P70-2018.12.06-Moravcsik Miklós
+Post  :Hegedüs Alexa - P70 - bevetel\nNew record created successfully :P70-2018.12.09-Hegedüs Alexa
+Post  :Hegedüs Alexa - P70 - kiadas\nNew record created successfully :P70-2018.12.09-Hegedüs Alexa
+Post  :Kincses Boglárka - Óbuda - bevetel\nNew record created successfully :Óbuda-2018.12.10-Kincses Boglárka
+Post  :Kincses Boglárka - Óbuda - kiadas\nNew record created successfully :Óbuda-2018.12.10-Kincses Boglárka
+Post  :Bánfi Dóra - P70 - bevetel\nNew record created successfully :P70-2018.12.10-Bánfi Dóra
+Post  :Bánfi Dóra - P70 - kiadas\nNew record created successfully :P70-2018.12.10-Bánfi Dóra
+Post  :Borostyán Barbara - Fizio - bevetel\nNew record created successfully :Fizio-2018.12.10-Borostyán Barbara
+Post  :Borostyán Barbara - Fizio - kiadas\nNew record created successfully :Fizio-2018.12.10-Borostyán Barbara
+Post  :Süliova Evelin - BMM - bevetel\nNew record created successfully :BMM-2018.12.10-Süliova Evelin
+Post  :Süliova Evelin - BMM - kiadas\nNew record created successfully :BMM-2018.12.10-Süliova Evelin
+Post  :Moravcsik Miklós - BMM - kiadasi_javbiz\nNew record created successfully :BMM-2018.12.07-Moravcsik Miklós
+Post  :Moravcsik Miklós - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.12.07-Moravcsik Miklós
+Post  :Bánfi Dóra - P70 - bevetel\nNew record created successfully :P70-2018.12.11-Bánfi Dóra
+Post  :Bánfi Dóra - P70 - kiadas\nNew record created successfully :P70-2018.12.11-Bánfi Dóra
+Post  :Szakmány Boglárka - BMM - bevetel\nNew record created successfully :BMM-2018.12.11-Szakmány Boglárka
+Post  :Szakmány Boglárka - BMM - kiadas\nNew record created successfully :BMM-2018.12.11-Szakmány Boglárka
+Post  :Gál Barna - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.12.11-Gál Barna
+Post  :Gál Barna - BMM - kiadas\nNew record created successfully :BMM-2018.12.11-Gál Barna
+Post  :Borostyán Barbara - Fizio - bevetel\nNew record created successfully :Fizio-2018.12.11-Borostyán Barbara
+Post  :Borostyán Barbara - Fizio - kiadas\nNew record created successfully :Fizio-2018.12.11-Borostyán Barbara
+Post  :Martony Boglárka - Óbuda - bevetel\nNew record created successfully :Óbuda-2018.12.11-Martony Boglárka
+Post  :Martony Boglárka - Óbuda - kiadas\nNew record created successfully :Óbuda-2018.12.11-Martony Boglárka
+Post  :Gál Barna - BMM - kiadasi_javbiz\nNew record created successfully :BMM-2018.12.11-Gál Barna
+Post  :Gál Barna - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.12.11-Gál Barna
+Post  :Gál Barna - BMM - kiadasi_javbiz\nNew record created successfully :BMM-2018.12.11-Gál Barna
+Post  :Gál Barna - BMM - kiadasi_javbiz\nNew record created successfully :BMM-2018.12.11-Gál Barna
+Post  :Moravcsik Miklós - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.12.07-Moravcsik Miklós
+Post  :Lukács Eleonóra - P70 - bevetel\nNew record created successfully :P70-2018.12.12-Lukács Eleonóra
+Post  :Lukács Eleonóra - P70 - kiadas\nNew record created successfully :P70-2018.12.12-Lukács Eleonóra
+Post  :Süliova Evelin - BMM - bevetel\nNew record created successfully :BMM-2018.12.12-Süliova Evelin
+Post  :Süliova Evelin - BMM - kiadas\nNew record created successfully :BMM-2018.12.12-Süliova Evelin
+Post  :Hegedüs Alexa - Fizio - bevetel\nNew record created successfully :Fizio-2018.12.12-Hegedüs Alexa
+Post  :Hegedüs Alexa - Fizio - kiadas\nNew record created successfully :Fizio-2018.12.12-Hegedüs Alexa
+Post  :Gál Barna - Óbuda - bevetel\nNew record created successfully :Óbuda-2018.12.12-Gál Barna
+Post  :Gál Barna - Óbuda - kiadas\nNew record created successfully :Óbuda-2018.12.12-Gál Barna
+Post  :Gál Barna - P70 - bevetel_javbiz\nNew record created successfully :P70-2018.11.05-Gál Barna
+Post  :Gál Barna - P70 - bevetel_javbiz\nNew record created successfully :P70-2018.09.04-Gál Barna
+Post  :Gál Barna - P70 - kiadasi_javbiz\nNew record created successfully :P70-2018.10.09-Gál Barna
+Post  :Gazdag András - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.15-Gazdag András
+Post  :Gazdag András - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.15-Gazdag András
+Post  :Gazdag András - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.15-Gazdag András
+Post  :Gazdag András - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.15-Gazdag András
+Post  :Gazdag András - BMM - kiadasi_javbiz\nNew record created successfully :BMM-2018.11.15-Gazdag András
+Post  :Gál Barna - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.15-Gál Barna
+Post  :Gazdag András - BMM - kiadasi_javbiz\nNew record created successfully :BMM-2018.11.15-Gazdag András
+Post  :Gál Barna - BMM - kiadasi_javbiz\nNew record created successfully :BMM-2018.11.15-Gál Barna
+Post  :Gál Barna - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.03-Gál Barna
+Post  :Gál Barna - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.03-Gál Barna
+Post  :Gál Barna - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.03-Gál Barna
+Post  :Gál Barna - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.05-Gál Barna
+Post  :Gál Barna - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.06-Gál Barna
+Post  :Gál Barna - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.07-Gál Barna
+Post  :Gál Barna - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.08-Gál Barna
+Post  :Gál Barna - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.09-Gál Barna
+Post  :Gál Barna - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.12-Gál Barna
+Post  :Gál Barna - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.13-Gál Barna
+Post  :Gál Barna - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.14-Gál Barna
+Post  :Gál Barna - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.16-Gál Barna
+Post  :Gál Barna - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.17-Gál Barna
+Post  :Gál Barna - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.19-Gál Barna
+Post  :Gál Barna - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.20-Gál Barna
+Post  :Gál Barna - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.21-Gál Barna
+Post  :Gál Barna - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.22-Gál Barna
+Post  :Gál Barna - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.26-Gál Barna
+Post  :Gál Barna - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.27-Gál Barna
+Post  :Gál Barna - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.28-Gál Barna
+Post  :Gál Barna - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.29-Gál Barna
+Post  :Bánfi Dóra - P72 - bevetel\nNew record created successfully :P72-2018.12.13-Bánfi Dóra
+Post  :Bánfi Dóra - P72 - kiadas\nNew record created successfully :P72-2018.12.13-Bánfi Dóra
+Post  :Martony Boglárka - Óbuda - bevetel\nNew record created successfully :Óbuda-2018.12.13-Martony Boglárka
+Post  :Martony Boglárka - Óbuda - kiadas\nNew record created successfully :Óbuda-2018.12.13-Martony Boglárka
+Post  :Lukács Eleonóra - P70 - bevetel\nNew record created successfully :P70-2018.12.13-Lukács Eleonóra
+Post  :Lukács Eleonóra - P70 - kiadas\nNew record created successfully :P70-2018.12.13-Lukács Eleonóra
+Post  :Gál Barna - BMM - bevetel\nNew record created successfully :BMM-2018.12.13-Gál Barna
+Post  :Gál Barna - BMM - kiadas\nNew record created successfully :BMM-2018.12.13-Gál Barna
+Post  :Kincses Boglárka - Fizio - bevetel\nNew record created successfully :Fizio-2018.12.13-Kincses Boglárka
+Post  :Kincses Boglárka - Fizio - kiadas\nNew record created successfully :Fizio-2018.12.13-Kincses Boglárka
+Post  :Kincses Boglárka - Fizio - bevetel\nNew record created successfully :Fizio-2018.12.14-Kincses Boglárka
+Post  :Kincses Boglárka - Fizio - kiadas\nNew record created successfully :Fizio-2018.12.14-Kincses Boglárka
+Post  :Gazdag András - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.23-Gazdag András
+Post  :Gazdag András - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.30-Gazdag András
+Post  :Lukács Eleonóra - P70 - bevetel\nNew record created successfully :P70-2018.12.14-Lukács Eleonóra
+Post  :Lukács Eleonóra - P70 - kiadas\nNew record created successfully :P70-2018.12.14-Lukács Eleonóra
+Post  :Szakmány Boglárka - BMM - bevetel\nNew record created successfully :BMM-2018.12.14-Szakmány Boglárka
+Post  :Szakmány Boglárka - BMM - kiadas\nNew record created successfully :BMM-2018.12.14-Szakmány Boglárka
+Post  :Hegedüs Alexa - P72 - bevetel\nNew record created successfully :P72-2018.12.14-Hegedüs Alexa
+Post  :Hegedüs Alexa - P72 - kiadas\nNew record created successfully :P72-2018.12.14-Hegedüs Alexa
+Post  :Gál Barna - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.23-Gál Barna
+Post  :Gál Barna - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.30-Gál Barna
+Post  :Kiss Melinda - Fizio - bevetel\nNew record created successfully :Fizio-2018.12.15-Kiss Melinda
+Post  :Kiss Melinda - Fizio - kiadas\nNew record created successfully :Fizio-2018.12.15-Kiss Melinda
+Post  :Martony Boglárka - P70 - bevetel\nNew record created successfully :P70-2018.12.15-Martony Boglárka
+Post  :Martony Boglárka - P70 - kiadas\nNew record created successfully :P70-2018.12.15-Martony Boglárka
+Post  :Kincses Boglárka - P70 - bevetel\nNew record created successfully :P70-2018.12.16-Kincses Boglárka
+Post  :Kincses Boglárka - P70 - kiadas\nNew record created successfully :P70-2018.12.16-Kincses Boglárka
+Post  :Szalay Lilla - P70 - bevetel\nNew record created successfully :P70-2018.12.17-Szalay Lilla
+Post  :Szalay Lilla - P70 - kiadas\nNew record created successfully :P70-2018.12.17-Szalay Lilla
+Post  :Süliova Evelin - BMM - bevetel\nNew record created successfully :BMM-2018.12.17-Süliova Evelin
+Post  :Süliova Evelin - BMM - kiadas\nNew record created successfully :BMM-2018.12.17-Süliova Evelin
+Post  :Popovics Linda - Óbuda - bevetel\nNew record created successfully :Óbuda-2018.12.17-Popovics Linda
+Post  :Popovics Linda - Óbuda - kiadas\nNew record created successfully :Óbuda-2018.12.17-Popovics Linda
+Post  :Hegedüs Alexa - Fizio - bevetel\nNew record created successfully :Fizio-2018.12.17-Hegedüs Alexa
+Post  :Hegedüs Alexa - Fizio - kiadas\nNew record created successfully :Fizio-2018.12.17-Hegedüs Alexa
+Post  :Martony Boglárka - Óbuda - bevetel\nNew record created successfully :Óbuda-2018.12.18-Martony Boglárka
+Post  :Martony Boglárka - Óbuda - kiadas\nNew record created successfully :Óbuda-2018.12.18-Martony Boglárka
+Post  :Borostyán Barbara - Fizio - bevetel\nNew record created successfully :Fizio-2018.12.18-Borostyán Barbara
+Post  :Borostyán Barbara - Fizio - kiadas\nNew record created successfully :Fizio-2018.12.18-Borostyán Barbara
+Post  :Kincses Boglárka - P70 - bevetel\nNew record created successfully :P70-2018.12.18-Kincses Boglárka
+Post  :Kincses Boglárka - P70 - kiadas\nNew record created successfully :P70-2018.12.18-Kincses Boglárka
+Post  :Szakmány Boglárka - BMM - bevetel\nNew record created successfully :BMM-2018.12.18-Szakmány Boglárka
+Post  :Szakmány Boglárka - BMM - kiadas\nNew record created successfully :BMM-2018.12.18-Szakmány Boglárka
+Post  :Bánfi Dóra - P70 - bevetel\nNew record created successfully :P70-2018.12.19-Bánfi Dóra
+Post  :Bánfi Dóra - P70 - kiadas\nNew record created successfully :P70-2018.12.19-Bánfi Dóra
+Post  :Popovics Linda - BMM - bevetel\nNew record created successfully :BMM-2018.12.19-Popovics Linda
+Post  :Popovics Linda - BMM - kiadas\nNew record created successfully :BMM-2018.12.19-Popovics Linda
+Post  :Szalay Lilla - Óbuda - bevetel\nNew record created successfully :Óbuda-2018.12.19-Szalay Lilla
+Post  :Szalay Lilla - Óbuda - kiadas\nNew record created successfully :Óbuda-2018.12.19-Szalay Lilla
+Post  :Kincses Boglárka - Fizio - bevetel\nNew record created successfully :Fizio-2018.12.19-Kincses Boglárka
+Post  :Kincses Boglárka - Fizio - kiadas\nNew record created successfully :Fizio-2018.12.19-Kincses Boglárka
+Post  :Dénes Boglárka - P72 - bevetel\nNew record created successfully :P72-2018.12.20-Dénes Boglárka
+Post  :Dénes Boglárka - P72 - kiadas\nNew record created successfully :P72-2018.12.20-Dénes Boglárka
+Post  :Lukács Eleonóra - P70 - bevetel\nNew record created successfully :P70-2018.12.20-Lukács Eleonóra
+Post  :Lukács Eleonóra - P70 - kiadas\nNew record created successfully :P70-2018.12.20-Lukács Eleonóra
+Post  :Gál Barna - BMM - bevetel\nNew record created successfully :BMM-2018.12.20-Gál Barna
+Post  :Gál Barna - BMM - kiadas\nNew record created successfully :BMM-2018.12.20-Gál Barna
+Post  :Hegedüs Alexa - Fizio - bevetel\nNew record created successfully :Fizio-2018.12.20-Hegedüs Alexa
+Post  :Hegedüs Alexa - Fizio - kiadas\nNew record created successfully :Fizio-2018.12.20-Hegedüs Alexa
+Post  :Hegedüs Alexa - Fizio - bevetel\nNew record created successfully :Fizio-2018.12.21-Hegedüs Alexa
+Post  :Hegedüs Alexa - Fizio - kiadas\nNew record created successfully :Fizio-2018.12.21-Hegedüs Alexa
+Post  :Kiss Melinda - P72 - bevetel\nNew record created successfully :P72-2018.12.21-Kiss Melinda
+Post  :Kiss Melinda - P72 - kiadas\nNew record created successfully :P72-2018.12.21-Kiss Melinda
+Post  :Kincses Boglárka - P70 - bevetel\nNew record created successfully :P70-2018.12.21-Kincses Boglárka
+Post  :Kincses Boglárka - P70 - kiadas\nNew record created successfully :P70-2018.12.21-Kincses Boglárka
+Post  :Süliova Evelin - BMM - bevetel\nNew record created successfully :BMM-2018.12.21-Süliova Evelin
+Post  :Süliova Evelin - BMM - kiadas\nNew record created successfully :BMM-2018.12.21-Süliova Evelin
+Post  :Hegedüs Alexa - BMM - bevetel\nNew record created successfully :BMM-2018.12.22-Hegedüs Alexa
+Post  :Hegedüs Alexa - BMM - kiadas\nNew record created successfully :BMM-2018.12.22-Hegedüs Alexa
+Post  :Szalay Lilla - P70 - bevetel\nNew record created successfully :P70-2018.12.22-Szalay Lilla
+Post  :Szalay Lilla - P70 - kiadas\nNew record created successfully :P70-2018.12.22-Szalay Lilla
+Post  :Martony Boglárka - P70 - bevetel\nNew record created successfully :P70-2018.12.26-Martony Boglárka
+Post  :Martony Boglárka - P70 - kiadas\nNew record created successfully :P70-2018.12.26-Martony Boglárka
+Post  :Gál Barna - Óbuda - bevetel\nNew record created successfully :Óbuda-2018.12.27-Gál Barna
+Post  :Gál Barna - Óbuda - kiadas\nNew record created successfully :Óbuda-2018.12.27-Gál Barna
+Post  :Kamper Dóra - BMM - bevetel\nNew record created successfully :BMM-2018.12.27-Kamper Dóra
+Post  :Kamper Dóra - BMM - kiadas\nNew record created successfully :BMM-2018.12.27-Kamper Dóra
+Post  :Popovics Linda - P70 - bevetel\nNew record created successfully :P70-2018.12.27-Popovics Linda
+Post  :Popovics Linda - P70 - kiadas\nNew record created successfully :P70-2018.12.27-Popovics Linda
+Post  :Kamper Dóra - BMM - bevetel\nNew record created successfully :BMM-2018.12.28-Kamper Dóra
+Post  :Kamper Dóra - BMM - kiadas\nNew record created successfully :BMM-2018.12.28-Kamper Dóra
+Post  :Martony Boglárka - P70 - bevetel\nNew record created successfully :P70-2018.12.28-Martony Boglárka
+Post  :Martony Boglárka - P70 - kiadas\nNew record created successfully :P70-2018.12.28-Martony Boglárka
+Post  :Martony Boglárka - BMM - bevetel\nNew record created successfully :BMM-2018.12.29-Martony Boglárka
+Post  :Martony Boglárka - BMM - kiadas\nNew record created successfully :BMM-2018.12.29-Martony Boglárka
+Post  :Moravcsik Miklós - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.12.19-Moravcsik Miklós
+Post  :Moravcsik Miklós - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.12.19-Moravcsik Miklós
+Post  :Moravcsik Miklós - BMM - kiadasi_javbiz\nNew record created successfully :BMM-2018.12.19-Moravcsik Miklós
+Post  :Moravcsik Miklós - P72 - bevetel_javbiz\nNew record created successfully :P72-2018.12.20-Moravcsik Miklós
+Post  :Moravcsik Miklós - P72 - kiadasi_javbiz\nNew record created successfully :P72-2018.12.20-Moravcsik Miklós
+Post  :Szalay Lilla - P70 - bevetel\nNew record created successfully :P70-2018.12.29-Szalay Lilla
+Post  :Szalay Lilla - P70 - kiadas\nNew record created successfully :P70-2018.12.29-Szalay Lilla
+Post  :Moravcsik Miklós - P70 - bevetel_javbiz\nNew record created successfully :P70-2018.12.27-Moravcsik Miklós
+Post  :Moravcsik Miklós - P70 - kiadasi_javbiz\nNew record created successfully :P70-2018.12.27-Moravcsik Miklós
+Post  :Moravcsik Miklós - Óbuda - bevetel_javbiz\nNew record created successfully :Óbuda-2018.12.18-Moravcsik Miklós
+Post  :Moravcsik Miklós - Óbuda - kiadasi_javbiz\nNew record created successfully :Óbuda-2018.12.18-Moravcsik Miklós
+Post  :Kamper Dóra - BMM - bevetel\nNew record created successfully :BMM-2019.01.02-Kamper Dóra
+Post  :Kamper Dóra - BMM - kiadas\nNew record created successfully :BMM-2019.01.02-Kamper Dóra
+Post  :Bánfi Dóra - P70 - bevetel\nNew record created successfully :P70-2019.01.02-Bánfi Dóra
+Post  :Bánfi Dóra - P70 - kiadas\nNew record created successfully :P70-2019.01.02-Bánfi Dóra
+Post  :Gál Barna - Óbuda - bevetel\nNew record created successfully :Óbuda-2019.01.02-Gál Barna
+Post  :Gál Barna - Óbuda - kiadas\nNew record created successfully :Óbuda-2019.01.02-Gál Barna
+Post  :Szalay Lilla - Fizio - bevetel\nNew record created successfully :Fizio-2019.01.02-Szalay Lilla
+Post  :Szalay Lilla - Fizio - kiadas\nNew record created successfully :Fizio-2019.01.02-Szalay Lilla
+Post  :Kincses Boglárka - P72 - bevetel\nNew record created successfully :P72-2019.01.03-Kincses Boglárka
+Post  :Kincses Boglárka - P72 - kiadas\nNew record created successfully :P72-2019.01.03-Kincses Boglárka
+Post  :Martony Boglárka - Óbuda - bevetel\nNew record created successfully :Óbuda-2019.01.03-Martony Boglárka
+Post  :Martony Boglárka - Óbuda - kiadas\nNew record created successfully :Óbuda-2019.01.03-Martony Boglárka
+Post  :Gál Barna - BMM - bevetel\nNew record created successfully :BMM-2019.01.03-Gál Barna
+Post  :Gál Barna - BMM - kiadas\nNew record created successfully :BMM-2019.01.03-Gál Barna
+Post  :Kiss Melinda - Fizio - bevetel\nNew record created successfully :Fizio-2019.01.03-Kiss Melinda
+Post  :Kiss Melinda - Fizio - kiadas\nNew record created successfully :Fizio-2019.01.03-Kiss Melinda
+Post  :Lukács Eleonóra - P70 - bevetel\nNew record created successfully :P70-2019.01.03-Lukács Eleonóra
+Post  :Lukács Eleonóra - P70 - kiadas\nNew record created successfully :P70-2019.01.03-Lukács Eleonóra
+Post  :Borostyán Barbara - Fizio - bevetel\nNew record created successfully :Fizio-2019.01.04-Borostyán Barbara
+Post  :Borostyán Barbara - Fizio - kiadas\nNew record created successfully :Fizio-2019.01.04-Borostyán Barbara
+Post  :Bánfi Dóra - P70 - bevetel\nNew record created successfully :P70-2019.01.04-Bánfi Dóra
+Post  :Bánfi Dóra - P70 - kiadas\nNew record created successfully :P70-2019.01.04-Bánfi Dóra
+Post  :Kamper Dóra - BMM - bevetel\nNew record created successfully :BMM-2019.01.04-Kamper Dóra
+Post  :Kamper Dóra - BMM - kiadas\nNew record created successfully :BMM-2019.01.04-Kamper Dóra
+Post  :Kincses Boglárka - P70 - bevetel\nNew record created successfully :P70-2019.01.05-Kincses Boglárka
+Post  :Kincses Boglárka - P70 - kiadas\nNew record created successfully :P70-2019.01.05-Kincses Boglárka
+Post  :Dénes Boglárka - P70 - bevetel\nNew record created successfully :P70-2019.01.06-Dénes Boglárka
+Post  :Dénes Boglárka - P70 - kiadas\nNew record created successfully :P70-2019.01.06-Dénes Boglárka
+Post  :Borostyán Barbara - Fizio - bevetel\nNew record created successfully :Fizio-2019.01.07-Borostyán Barbara
+Post  :Borostyán Barbara - Fizio - kiadas\nNew record created successfully :Fizio-2019.01.07-Borostyán Barbara
+Post  :Gál Barna - Fizio - bevetel_javbiz\nNew record created successfully :Fizio-2019.01.05-Gál Barna
+Post  :Gál Barna - Fizio - kiadasi_javbiz\nNew record created successfully :Fizio-2019.01.05-Gál Barna
+Post  :Gál Barna - P72 - bevetel\nNew record created successfully :P72-2019.01.07-Gál Barna
+Post  :Gál Barna - P72 - kiadas\nNew record created successfully :P72-2019.01.07-Gál Barna
+Post  :Lukács Eleonóra - P70 - bevetel\nNew record created successfully :P70-2019.01.07-Lukács Eleonóra
+Post  :Lukács Eleonóra - P70 - kiadas\nNew record created successfully :P70-2019.01.07-Lukács Eleonóra
+Post  :Popovics Linda - Óbuda - bevetel\nNew record created successfully :Óbuda-2019.01.07-Popovics Linda
+Post  :Popovics Linda - Óbuda - kiadas\nNew record created successfully :Óbuda-2019.01.07-Popovics Linda
+Post  :Szakmány Boglárka - BMM - bevetel\nNew record created successfully :BMM-2019.01.07-Szakmány Boglárka
+Post  :Szakmány Boglárka - BMM - kiadas\nNew record created successfully :BMM-2019.01.07-Szakmány Boglárka
+Post  :Hegedüs Alexa - Fizio - bevetel\nNew record created successfully :Fizio-2019.01.07-Hegedüs Alexa
+Post  :Hegedüs Alexa - Fizio - kiadas\nNew record created successfully :Fizio-2019.01.07-Hegedüs Alexa
+Post  :Bánfi Dóra - P70 - bevetel\nNew record created successfully :P70-2019.01.08-Bánfi Dóra
+Post  :Bánfi Dóra - P70 - kiadas\nNew record created successfully :P70-2019.01.08-Bánfi Dóra
+Post  :Martony Boglárka - Óbuda - bevetel\nNew record created successfully :Óbuda-2019.01.08-Martony Boglárka
+Post  :Martony Boglárka - Óbuda - kiadas\nNew record created successfully :Óbuda-2019.01.08-Martony Boglárka
+Post  :Borostyán Barbara - Fizio - bevetel\nNew record created successfully :Fizio-2019.01.08-Borostyán Barbara
+Post  :Borostyán Barbara - Fizio - kiadas\nNew record created successfully :Fizio-2019.01.08-Borostyán Barbara
+Post  :Szakmány Boglárka - BMM - bevetel\nNew record created successfully :BMM-2019.01.08-Szakmány Boglárka
+Post  :Szakmány Boglárka - BMM - kiadas\nNew record created successfully :BMM-2019.01.08-Szakmány Boglárka
+Post  :Bánfi Dóra - P70 - bevetel\nNew record created successfully :P70-2019.01.09-Bánfi Dóra
+Post  :Bánfi Dóra - P70 - kiadas\nNew record created successfully :P70-2019.01.09-Bánfi Dóra
+Post  :Popovics Linda - BMM - bevetel\nNew record created successfully :BMM-2019.01.09-Popovics Linda
+Post  :Popovics Linda - BMM - kiadas\nNew record created successfully :BMM-2019.01.09-Popovics Linda
+Post  :Kincses Boglárka - Óbuda - bevetel\nNew record created successfully :Óbuda-2019.01.09-Kincses Boglárka
+Post  :Kincses Boglárka - Óbuda - kiadas\nNew record created successfully :Óbuda-2019.01.09-Kincses Boglárka
+Post  :Kamper Dóra - Fizio - bevetel\nNew record created successfully :Fizio-2019.01.09-Kamper Dóra
+Post  :Kamper Dóra - Fizio - kiadas\nNew record created successfully :Fizio-2019.01.09-Kamper Dóra
+Post  :Popovics Linda - P72 - bevetel\nNew record created successfully :P72-2019.01.10-Popovics Linda
+Post  :Popovics Linda - P72 - kiadas\nNew record created successfully :P72-2019.01.10-Popovics Linda
+Post  :Martony Boglárka - Óbuda - bevetel\nNew record created successfully :Óbuda-2019.01.10-Martony Boglárka
+Post  :Martony Boglárka - Óbuda - kiadas\nNew record created successfully :Óbuda-2019.01.10-Martony Boglárka
+Post  :Bánfi Dóra - P70 - bevetel\nNew record created successfully :P70-2019.01.10-Bánfi Dóra
+Post  :Bánfi Dóra - P70 - kiadas\nNew record created successfully :P70-2019.01.10-Bánfi Dóra
+Post  :Szakmány Boglárka - BMM - bevetel\nNew record created successfully :BMM-2019.01.10-Szakmány Boglárka
+Post  :Szakmány Boglárka - BMM - kiadas\nNew record created successfully :BMM-2019.01.10-Szakmány Boglárka
+Post  :Szalay Lilla - Fizio - bevetel\nNew record created successfully :Fizio-2019.01.10-Szalay Lilla
+Post  :Szalay Lilla - Fizio - kiadas\nNew record created successfully :Fizio-2019.01.10-Szalay Lilla
+Post  :Kamper Dóra - Fizio - bevetel\nNew record created successfully :Fizio-2019.01.11-Kamper Dóra
+Post  :Kamper Dóra - Fizio - kiadas\nNew record created successfully :Fizio-2019.01.11-Kamper Dóra
+Post  :Kincses Boglárka - BMM - bevetel\nNew record created successfully :BMM-2019.01.11-Kincses Boglárka
+Post  :Kincses Boglárka - BMM - kiadas\nNew record created successfully :BMM-2019.01.11-Kincses Boglárka
+Post  :Lukács Eleonóra - P70 - bevetel\nNew record created successfully :P70-2019.01.11-Lukács Eleonóra
+Post  :Lukács Eleonóra - P70 - kiadas\nNew record created successfully :P70-2019.01.11-Lukács Eleonóra
+Post  :Lukács Eleonóra - P70 - bevetel\nNew record created successfully :P70-2019.01.12-Lukács Eleonóra
+Post  :Lukács Eleonóra - P70 - kiadas\nNew record created successfully :P70-2019.01.12-Lukács Eleonóra
+Post  :Kamper Dóra - BMM - bevetel\nNew record created successfully :BMM-2019.01.12-Kamper Dóra
+Post  :Kamper Dóra - BMM - kiadas\nNew record created successfully :BMM-2019.01.12-Kamper Dóra
+Post  :Gál Barna - Scolinea - bevetel\nNew record created successfully :Scolinea-2019.01.14-Gál Barna
+Post  :Gál Barna - Scolinea - kiadas\nNew record created successfully :Scolinea-2019.01.14-Gál Barna
+Post  :Gál Barna - Scolinea - bevetel_javbiz\nNew record created successfully :Scolinea-2019.01.12.-Gál Barna
+Post  :Gál Barna - Scolinea - kiadasi_javbiz\nNew record created successfully :Scolinea-2019.01.12.-Gál Barna
+Post  :Hegedüs Alexa - Fizio - bevetel\nNew record created successfully :Fizio-2019.01.14-Hegedüs Alexa
+Post  :Hegedüs Alexa - Fizio - kiadas\nNew record created successfully :Fizio-2019.01.14-Hegedüs Alexa
+Post  :Szakmány Boglárka - BMM - bevetel\nNew record created successfully :BMM-2019.01.14-Szakmány Boglárka
+Post  :Szakmány Boglárka - BMM - kiadas\nNew record created successfully :BMM-2019.01.14-Szakmány Boglárka
+Post  :Bánfi Dóra - P70 - bevetel\nNew record created successfully :P70-2019.01.14-Bánfi Dóra
+Post  :Bánfi Dóra - P70 - kiadas\nNew record created successfully :P70-2019.01.14-Bánfi Dóra
+Post  :Popovics Linda - Óbuda - bevetel\nNew record created successfully :Óbuda-2019.01.14-Popovics Linda
+Post  :Popovics Linda - Óbuda - kiadas\nNew record created successfully :Óbuda-2019.01.14-Popovics Linda
+Post  :Moravcsik Miklós - BMM - kiadasi_javbiz\nNew record created successfully :BMM-2019.01.11-Moravcsik Miklós
+Post  :Martony Boglárka - Óbuda - bevetel\nNew record created successfully :Óbuda-2019.01.15-Martony Boglárka
+Post  :Martony Boglárka - Óbuda - kiadas\nNew record created successfully :Óbuda-2019.01.15-Martony Boglárka
+Post  :Bánfi Dóra - P70 - bevetel\nNew record created successfully :P70-2019.01.15-Bánfi Dóra
+Post  :Bánfi Dóra - P70 - kiadas\nNew record created successfully :P70-2019.01.15-Bánfi Dóra
+Post  :Borostyán Barbara - Fizio - bevetel\nNew record created successfully :Fizio-2019.01.15-Borostyán Barbara
+Post  :Borostyán Barbara - Fizio - kiadas\nNew record created successfully :Fizio-2019.01.15-Borostyán Barbara
+Post  :Hegedüs Alexa - BMM - bevetel\nNew record created successfully :BMM-2019.01.15-Hegedüs Alexa
+Post  :Hegedüs Alexa - BMM - kiadas\nNew record created successfully :BMM-2019.01.15-Hegedüs Alexa
+Post  :Gál Barna - P70 - bevetel_javbiz\nNew record created successfully :P70-2018.12.22-Gál Barna
+Post  :Gál Barna - BMM - bevetel_javbiz\nNew record created successfully :BMM-2018.11.03-Gál Barna
+Post  :Bánfi Dóra - P70 - bevetel\nNew record created successfully :P70-2019.01.16-Bánfi Dóra
+Post  :Bánfi Dóra - P70 - kiadas\nNew record created successfully :P70-2019.01.16-Bánfi Dóra
+Post  :Gál Barna - BMM - bevetel\nNew record created successfully :BMM-2019.01.16-Gál Barna
+Post  :Gál Barna - BMM - kiadas\nNew record created successfully :BMM-2019.01.16-Gál Barna
+Post  :Szalay Lilla - Óbuda - bevetel\nNew record created successfully :Óbuda-2019.01.16-Szalay Lilla
+Post  :Szalay Lilla - Óbuda - kiadas\nNew record created successfully :Óbuda-2019.01.16-Szalay Lilla
+Post  :Popovics Linda - Fizio - bevetel\nNew record created successfully :Fizio-2019.01.16-Popovics Linda
+Post  :Popovics Linda - Fizio - kiadas\nNew record created successfully :Fizio-2019.01.16-Popovics Linda
+Post  :Moravcsik Miklós - BMM - kiadasi_javbiz\nNew record created successfully :BMM-2019.01.15-Moravcsik Miklós
+Post  :Lukács Eleonóra - P70 - bevetel\nNew record created successfully :P70-2019.01.17-Lukács Eleonóra
+Post  :Lukács Eleonóra - P70 - kiadas\nNew record created successfully :P70-2019.01.17-Lukács Eleonóra
+Post  :Kamper Dóra - BMM - bevetel\nNew record created successfully :BMM-2019.01.17-Kamper Dóra
+Post  :Kamper Dóra - BMM - kiadas\nNew record created successfully :BMM-2019.01.17-Kamper Dóra
+Post  :Dénes Boglárka - Óbuda - bevetel\nNew record created successfully :Óbuda-2019.01.17-Dénes Boglárka
+Post  :Dénes Boglárka - Óbuda - kiadas\nNew record created successfully :Óbuda-2019.01.17-Dénes Boglárka
+Post  :Szalay Lilla - P72 - bevetel\nNew record created successfully :P72-2019.01.17-Szalay Lilla
+Post  :Szalay Lilla - P72 - kiadas\nNew record created successfully :P72-2019.01.17-Szalay Lilla
+Post  :Hegedüs Alexa - Fizio - bevetel\nNew record created successfully :Fizio-2019.01.17-Hegedüs Alexa
+Post  :Hegedüs Alexa - Fizio - kiadas\nNew record created successfully :Fizio-2019.01.17-Hegedüs Alexa
+Post  :Kiss Melinda - Fizio - bevetel\nNew record created successfully :Fizio-2019.01.18-Kiss Melinda
+Post  :Kiss Melinda - Fizio - kiadas\nNew record created successfully :Fizio-2019.01.18-Kiss Melinda
+Post  :Lukács Eleonóra - P70 - bevetel\nNew record created successfully :P70-2019.01.18-Lukács Eleonóra
+Post  :Lukács Eleonóra - P70 - kiadas\nNew record created successfully :P70-2019.01.18-Lukács Eleonóra
+Post  :Gál Barna - P70 - bevetel\nNew record created successfully :P70-2019.01.19-Gál Barna
+Post  :Gál Barna - P70 - kiadas\nNew record created successfully :P70-2019.01.19-Gál Barna
+Post  :Kamper Dóra - BMM - bevetel\nNew record created successfully :BMM-2019.01.19-Kamper Dóra
+Post  :Kamper Dóra - BMM - kiadas\nNew record created successfully :BMM-2019.01.19-Kamper Dóra
+Post  :Hegedüs Alexa - P70 - bevetel\nNew record created successfully :P70-2019.01.20-Hegedüs Alexa
+Post  :Hegedüs Alexa - P70 - kiadas\nNew record created successfully :P70-2019.01.20-Hegedüs Alexa
+Post  :Popovics Linda - Óbuda - bevetel\nNew record created successfully :Óbuda-2019.01.21-Popovics Linda
+Post  :Borostyán Barbara - Fizio - bevetel\nNew record created successfully :Fizio-2019.01.21-Borostyán Barbara
+Post  :Borostyán Barbara - Fizio - kiadas\nNew record created successfully :Fizio-2019.01.21-Borostyán Barbara
+Post  :Popovics Linda - Óbuda - kiadas\nNew record created successfully :Óbuda-2019.01.21-Popovics Linda
+Post  :Lukács Eleonóra - P70 - bevetel\nNew record created successfully :P70-2019.01.21-Lukács Eleonóra
+Post  :Lukács Eleonóra - P70 - kiadas\nNew record created successfully :P70-2019.01.21-Lukács Eleonóra
+Post  :Süliova Evelin - BMM - bevetel\nNew record created successfully :BMM-2019.01.21-Süliova Evelin
+Post  :Süliova Evelin - BMM - kiadas\nNew record created successfully :BMM-2019.01.21-Süliova Evelin
+Post  :Martony Boglárka - Óbuda - bevetel\nNew record created successfully :Óbuda-2019.01.22-Martony Boglárka
+Post  :Martony Boglárka - Óbuda - kiadas\nNew record created successfully :Óbuda-2019.01.22-Martony Boglárka
+Post  :Bánfi Dóra - P70 - bevetel\nNew record created successfully :P70-2019.01.22-Bánfi Dóra
+Post  :Bánfi Dóra - P70 - kiadas\nNew record created successfully :P70-2019.01.22-Bánfi Dóra
+Post  :Hegedüs Alexa - Fizio - bevetel\nNew record created successfully :Fizio-2019.01.22-Hegedüs Alexa
+Post  :Hegedüs Alexa - Fizio - kiadas\nNew record created successfully :Fizio-2019.01.22-Hegedüs Alexa
+Post  :Szakmány Boglárka - BMM - bevetel\nNew record created successfully :BMM-2019.01.22-Szakmány Boglárka
+Post  :Szakmány Boglárka - BMM - kiadas\nNew record created successfully :BMM-2019.01.22-Szakmány Boglárka
+Post  :Martony Boglárka - Óbuda - bevetel\nNew record created successfully :Óbuda-2019.01.23-Martony Boglárka
+Post  :Martony Boglárka - Óbuda - kiadas\nNew record created successfully :Óbuda-2019.01.23-Martony Boglárka
+Post  :Bánfi Dóra - P70 - bevetel\nNew record created successfully :P70-2019.01.23-Bánfi Dóra
+Post  :Bánfi Dóra - P70 - kiadas\nNew record created successfully :P70-2019.01.23-Bánfi Dóra
+Post  :Süliova Evelin - BMM - bevetel\nNew record created successfully :BMM-2019.01.23-Süliova Evelin
+Post  :Süliova Evelin - BMM - kiadas\nNew record created successfully :BMM-2019.01.23-Süliova Evelin
+Post  :Kincses Boglárka - Fizio - bevetel\nNew record created successfully :Fizio-2019.01.23-Kincses Boglárka
+Post  :Kincses Boglárka - Fizio - kiadas\nNew record created successfully :Fizio-2019.01.23-Kincses Boglárka
+Post  :Szalay Lilla - P72 - bevetel\nNew record created successfully :P72-2019.01.24-Szalay Lilla
+Post  :Szalay Lilla - P72 - kiadas\nNew record created successfully :P72-2019.01.24-Szalay Lilla
+Post  :Martony Boglárka - Óbuda - bevetel\nNew record created successfully :Óbuda-2019.01.24-Martony Boglárka
+Post  :Martony Boglárka - Óbuda - kiadas\nNew record created successfully :Óbuda-2019.01.24-Martony Boglárka
+Post  :Hegedüs Alexa - Fizio - bevetel\nNew record created successfully :Fizio-2019.01.24-Hegedüs Alexa
+Post  :Hegedüs Alexa - Fizio - kiadas\nNew record created successfully :Fizio-2019.01.24-Hegedüs Alexa
+Post  :Lukács Eleonóra - P70 - bevetel\nNew record created successfully :P70-2019.01.24-Lukács Eleonóra
+Post  :Lukács Eleonóra - P70 - kiadas\nNew record created successfully :P70-2019.01.24-Lukács Eleonóra
+Post  :Gál Barna - BMM - bevetel\nNew record created successfully :BMM-2019.01.24-Gál Barna
+Post  :Gál Barna - BMM - kiadas\nNew record created successfully :BMM-2019.01.24-Gál Barna
+Post  :Hegedüs Alexa - Fizio - bevetel\nNew record created successfully :Fizio-2019.01.25-Hegedüs Alexa
+Post  :Hegedüs Alexa - Fizio - kiadas\nNew record created successfully :Fizio-2019.01.25-Hegedüs Alexa
+Post  :Bánfi Dóra - P70 - bevetel\nNew record created successfully :P70-2019.01.25-Bánfi Dóra
+Post  :Bánfi Dóra - P70 - kiadas\nNew record created successfully :P70-2019.01.25-Bánfi Dóra
+Post  :Süliova Evelin - BMM - bevetel\nNew record created successfully :BMM-2019.01.25-Süliova Evelin
+Post  :Süliova Evelin - BMM - kiadas\nNew record created successfully :BMM-2019.01.25-Süliova Evelin
+Post  :Kincses Boglárka - P72 - bevetel\nNew record created successfully :P72-2019.01.25-Kincses Boglárka
+Post  :Kincses Boglárka - P72 - kiadas\nNew record created successfully :P72-2019.01.25-Kincses Boglárka
+Post  :Moravcsik Miklós - Fizio - bevetel_javbiz\nNew record created successfully :Fizio-2019.01.22-Moravcsik Miklós
+Post  :Moravcsik Miklós - Fizio - kiadasi_javbiz\nNew record created successfully :Fizio-2019.01.22-Moravcsik Miklós
+Post  :Szakmány Boglárka - BMM - bevetel\nNew record created successfully :BMM-2019.01.26-Szakmány Boglárka
+Post  :Szakmány Boglárka - BMM - kiadas\nNew record created successfully :BMM-2019.01.26-Szakmány Boglárka
+Post  :Lukács Eleonóra - P70 - bevetel\nNew record created successfully :P70-2019.01.26-Lukács Eleonóra
+Post  :Lukács Eleonóra - P70 - kiadas\nNew record created successfully :P70-2019.01.26-Lukács Eleonóra
+Post  :Kincses Boglárka - Fizio - bevetel\nNew record created successfully :Fizio-2019.01.26-Kincses Boglárka
+Post  :Kincses Boglárka - Fizio - kiadas\nNew record created successfully :Fizio-2019.01.26-Kincses Boglárka
+Post  :Martony Boglárka - P70 - bevetel\nNew record created successfully :P70-2019.01.27-Martony Boglárka
+Post  :Martony Boglárka - P70 - kiadas\nNew record created successfully :P70-2019.01.27-Martony Boglárka
+Post  :Bánfi Dóra - P70 - bevetel\nNew record created successfully :P70-2019.01.28-Bánfi Dóra
+Post  :Bánfi Dóra - P70 - kiadas\nNew record created successfully :P70-2019.01.28-Bánfi Dóra
+Post  :Popovics Linda - Óbuda - bevetel\nNew record created successfully :Óbuda-2019.01.28-Popovics Linda
+Post  :Popovics Linda - Óbuda - kiadas\nNew record created successfully :Óbuda-2019.01.28-Popovics Linda
+Post  :Hegedüs Alexa - Fizio - bevetel\nNew record created successfully :Fizio-2019.01.28-Hegedüs Alexa
+Post  :Hegedüs Alexa - Fizio - kiadas\nNew record created successfully :Fizio-2019.01.28-Hegedüs Alexa
+Post  :Süliova Evelin - BMM - bevetel\nNew record created successfully :BMM-2019.01.28-Süliova Evelin
+Post  :Süliova Evelin - BMM - kiadas\nNew record created successfully :BMM-2019.01.28-Süliova Evelin

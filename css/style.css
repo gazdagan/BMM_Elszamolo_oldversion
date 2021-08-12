@@ -1,0 +1,47 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Roboto&subset=latin-ext');
+
+body{
+    background-color: #f5f5f5;
+    background-image: url("http://localhost/BMMelsz2/img/wbg.jpg");
+    font-family: 'Roboto', sans-serif;
+    background-repeat: no repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-size: cover;
+   
+}
+
+.navbar-inverse { background-color: darkslategray;}
+
+#allContainer{
+margin: 20px;
+
+}
+
+.content_Container{
+ margin-top: 7em;
+
+}
+
+/*házipéánztár táblázat START*/
+
+/*házipéánztár táblázat END*/
+
+
+@media print {
+
+  @page {
+    size: auto;
+    margin: 0mm;
+  }
+
+  html, body {
+    width: 1024px;
+  }
+
+  input{
+
+      border: 0px;
+  }
+
+}
