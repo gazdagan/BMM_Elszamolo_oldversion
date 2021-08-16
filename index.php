@@ -25,7 +25,7 @@ include ("./includes/SystemlogClass.php");
 header('Cache-Control: no cache'); //no cache
 //session_cache_limiter('private_no_expire'); // works
 //session_cache_limiter('public'); // works too
-
+//test//
 
 if (isset($_COOKIE["PHPSESSID"])) {session_id($_COOKIE["PHPSESSID"]);}
 session_start();
