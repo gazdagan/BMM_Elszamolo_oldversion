@@ -26,6 +26,7 @@ header('Cache-Control: no cache'); //no cache
 //session_cache_limiter('private_no_expire'); // works
 //session_cache_limiter('public'); // works too
 //nézzük hogy müködik e//
+//visual studio test//
 
 if (isset($_COOKIE["PHPSESSID"])) {session_id($_COOKIE["PHPSESSID"]);}
 session_start();
